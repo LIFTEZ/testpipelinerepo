@@ -1,3 +1,5 @@
 this is some text, this is some more text, more text again, more text, this should work now
 
 this should finally work!!!
+
+this should unzip the source artifact
