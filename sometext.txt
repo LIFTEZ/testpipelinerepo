@@ -1,3 +1,3 @@
 this is some text, this is some more text, more text again, more text, this should work now
 
-lambda function run need to see event structure to determine what to do next, new commit
+lambda function run need to see event structure to determine what to do next
